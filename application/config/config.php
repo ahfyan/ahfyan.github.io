@@ -23,7 +23,7 @@ date_default_timezone_set("Asia/Jakarta");
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://ahfyan.github.io';
+$config['base_url'] = 'https://ahfyan.github.io';
 
 /*
 |--------------------------------------------------------------------------
